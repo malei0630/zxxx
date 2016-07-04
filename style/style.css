@@ -1,0 +1,20 @@
+#tip{
+    display:none
+}
+.modal-dialog{
+    width: 400px;
+}
+.loginTtile{
+    display: inline;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.regTitle{
+    display: inline;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#reg-body{
+    display: none;
+}
